@@ -159,3 +159,4 @@ def threshold_labels2cells(labels, thresh=25):
     labelX[labelX > 1] = 1
     labelX = labelX.astype(dtype=np.float32) # Make it float32
     return labelX
+    

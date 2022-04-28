@@ -16,7 +16,7 @@ To estimate the corneal endothelial parameters from specular microscopy images d
 <img src="imgs/flowchart.png" width="600px"/>
 </p>
 <p align="center">
-<b>Fig. 1 </b> - Flowchard of the approach.
+<b>Fig. 1 </b> - Flowchart of the approach.
 </p>
 
 &nbsp;
